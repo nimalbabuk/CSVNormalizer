@@ -1,5 +1,5 @@
 # CSVNormalizer'
 
-cd to CSV Normalizer/src
+cd to CSVNormalizer/src
 javac CSVHandler.java
 java CSVHandler sampler.csv
